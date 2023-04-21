@@ -3,7 +3,15 @@
 ### Requirements
 
 1. The Client or the User -
-This is the person who wants to book a movie ticket using the app
+This is the person who wants to book a movie ticket using the app.
+
+* Login or Register
+* Search for the theatre
+* Search for the movie
+* Select the showtime
+* Make the Payment
+* See all the bookings
+* Give reviews about the movie
 
 2. Theatre Manager -
 This is the person or organization that owns and operates the movie theatre where the movie is being shown. 
