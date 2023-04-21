@@ -11,6 +11,7 @@ This is the person who wants to book a movie ticket using the app.
 * Select the showtime
 * Make the Payment
 * See all the bookings
+* Manage all the bookings
 * Give reviews about the movie
 
 2. Theatre Manager -
