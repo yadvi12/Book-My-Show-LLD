@@ -2,7 +2,7 @@
 
 ### Requirements
 
-1. **The Client or the User** -
+**1. The Client or the User** -
 This is the person who wants to book a movie ticket using the app.
 
 * Login and Register
@@ -14,7 +14,7 @@ This is the person who wants to book a movie ticket using the app.
 * Manage all the bookings
 * Give reviews about the movie
 
-2. Theatre Manager -
+**2. Theatre Manager** -
 This is the person or organization that owns and operates the movie theatre where the movie is being shown.
 
 * Login and Register
@@ -23,14 +23,14 @@ This is the person or organization that owns and operates the movie theatre wher
 * Cancel Bookings
 * Receive Payment
 
-3. App Administrator -
+**3. App Administrator** -
 This is the team that operates the BookMyShow app and website. 
 
 * Add/Remove Theatres
 * Add/Remove movies
 * Add/Remove shows
 
-4. System -
+**4. System** -
 The system will manage the common tasks.
 
 * Process Payments
