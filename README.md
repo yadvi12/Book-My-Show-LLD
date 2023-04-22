@@ -2,7 +2,7 @@
 
 ### Requirements
 
-**1. The Client or the User** -
+***1. The Client or the User*** -
 This is the person who wants to book a movie ticket using the app.
 
 * Login and Register
